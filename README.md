@@ -111,4 +111,8 @@ You can explore different scenarios by modifying parameters:
 * Increase `social-distance` → slower transmission
 * Change `recovery-time` → affects epidemic duration
 
+---
+
+link to the video : https://youtu.be/lgrLGEI1DUg
+
 
